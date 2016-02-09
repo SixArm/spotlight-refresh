@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Ask the OS X Spotlight search tool to refresh its index.
+# Spotlight search tool script to refresh its index.
 #
 # Syntax:
 #

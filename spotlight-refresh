@@ -1,6 +1,7 @@
 #!/bin/sh
 #
-# Spotlight search tool script to refresh its index.
+# Spotlight search tool:
+# shell script to refresh the index.
 #
 # Syntax:
 #

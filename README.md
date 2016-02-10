@@ -1,4 +1,4 @@
-# Spotlight search tool script to refresh the index
+# Spotlight search tool:<br>shell script to refresh the index
 
 Syntax:
 
@@ -11,12 +11,3 @@ To reindex a different volume, specify the path, such as:
     spotlight-reindex /Volumes/MyHardDrive
 
 Cite: http://www.maclife.com/article/columns/terminal_101_rebuild_spotlight_index_fly
-
-## About
-
-* Program: spotlight-refresh
-* Version: 1.2.0
-* Created: 2015-04-15
-* Updated: 2016-02-09
-* License: GPL
-* Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
